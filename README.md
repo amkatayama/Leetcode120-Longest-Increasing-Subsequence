@@ -1,1 +1,1 @@
-# Leetcode120-Triangle
+# Leetcode300 - Longest Increasing Subsequence 
